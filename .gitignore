@@ -1,0 +1,19 @@
+# Virtual environment  
+venv/  
+venv*/  
+.env
+
+# Python cache files  
+**/__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+
+# Build artifacts  
+*.egg-info/  
+
+# Pytest cache  
+.pytest_cache/  
+
+# Excel Files
+.xlsx
