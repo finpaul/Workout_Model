@@ -5,19 +5,19 @@ A Python-based workout logging system that tracks your exercises, records perfor
   
 
 ### 📂 Project Structure
-workout-logger/
-├── src/
-│   ├── files/            # Stores actual workout data (ignored in .gitignore)
-│   ├── functions/
-│   │   └── workoutlogger.py  # Main class for workout tracking
-│   ├── main/             # Main file to run program
-│   ├── output_files/     # Place to store output files
-│   └── file_templates/   # Contains template files for first-time setup
-├── tests/                # Contains unit tests
-├── .env                  # Stores filepath variables (ignored in Git)
-├── .gitignore            # Ensures local data is not pushed to GitHub
-├── README.md             # Project documentation
-└── requirements.txt      # Contains the requirements for the virtual environment
+workout-logger/  
+├── src/  
+│   ├── files/            # Stores actual workout data (ignored in .gitignore)  
+│   ├── functions/  
+│   │   └── workoutlogger.py  # Main class for workout tracking  
+│   ├── main/             # Main file to run program  
+│   ├── output_files/     # Place to store output files  
+│   └── file_templates/   # Contains template files for first-time setup  
+├── tests/                # Contains unit tests  
+├── .env                  # Stores filepath variables (ignored in Git)  
+├── .gitignore            # Ensures local data is not pushed to GitHub  
+├── README.md             # Project documentation  
+└── requirements.txt      # Contains the requirements for the virtual environment  
 
 ### 📌 Features
 - ✅ **Log Workouts** – Save workout sessions, including sets, reps, weights, and effectiveness.
