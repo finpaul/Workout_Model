@@ -17,3 +17,6 @@ venv*/
 
 # Excel Files
 *.xlsx
+
+# JSON Files
+*.json
