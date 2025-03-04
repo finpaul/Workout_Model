@@ -31,4 +31,4 @@ jobs:
         coverage run -m pytest
         coverage report -m
         # Optionally enforce a minimum coverage percentage, e.g. 80%
-        coverage report -m | grep 'TOTAL' | awk '{ if ($4+0 < 80) exit 1 }'
+        coverage report -m | grep 'TOTAL' | awk '{ if ($4+0 < 100) exit 1 }'
