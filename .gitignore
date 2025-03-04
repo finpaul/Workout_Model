@@ -20,3 +20,6 @@ venv*/
 
 # JSON Files
 *.json
+
+# DS_Store
+.DS_Store
