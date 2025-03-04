@@ -1,4 +1,4 @@
-# Workout Logger 🏋️‍♂️
+# Workout Model🏋️‍♂️
 
 A Python-based workout logging system that tracks your exercises, records performance, and dynamically updates a workout database to analyze progress over time.
 
